@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+praw
+anthropic
+python-dotenv
+pydantic
